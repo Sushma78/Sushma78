@@ -4,13 +4,13 @@
 
 ### I'm Sushma, 
 
-- 🔭Currently I’m working on my new upcoming projects.  
+- 🔭 Currently I’m working on my new upcoming projects  
 
-- 🌱Newly I’m learning about cloud computing and advanced web development🎯  
+- 🌱 Newly I’m learning about cloud computing and advanced web development🎯  
 
 - ❓Ask me about anything related to MERN stack and related technologies⚡  
   
-- <b>Fun fact is no fact🤭</b>
+- <b>🐣 A fun fact is that there is no fact🤭</b>
 
 <br/>  
 
