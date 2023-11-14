@@ -1,22 +1,16 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" align="center" style="width: 50%; height:50%" />
-</div>  
-  
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="center" style="width: 100%; height:100%"/>
+</div>
 
-### <div align="center">I'm Sushma,</div>  
-  
+### I'm Sushma, 
 
 - 🔭Currently I’m working on my new upcoming projects.  
-  
 
-- 🌱🎯Newly I’m learning about cloud computing and advanced web development.  
-  
+- 🌱Newly I’m learning about cloud computing and advanced web development🎯  
 
 - ❓Ask me about anything related to MERN stack and related technologies⚡  
   
-
 - <b>Fun fact is no fact🤭</b>
-  
 
 <br/>  
 
@@ -66,16 +60,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Sushma78" target="_blank">
+<a href="https://github.com/Sushma78" >
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sushma-sharma78/" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sushma-sharma78/">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@sushma78.hashnode.dev" target="_blank">
+<a href="https://hashnode.com/@sushma78.hashnode.dev">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@sushma_ParleMe/featured" target="_blank">
+<a href="https://www.youtube.com/user/https://www.youtube.com/@sushma_ParleMe/featured">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
