@@ -116,17 +116,15 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sushma78&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>
+
+## Github Streak
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sushma78"/>
+</div>  </br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Sushma78&&style=flat-square" align="center" />
 </div>  
 <br/>  
-
- 
-
-
-
 
 ----
 
