@@ -113,15 +113,13 @@
 
 <br/>  
 
-## Github Streak
-  
+## Github Status
 
-<div align="center"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sushma78?cardType=github&header-fill=46369c&ring=46369c&icon=46369c&text=eb8334&background=000000&border=46369c&preferLogin=true" />
-  
+<div align="center"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sushma78?cardType=github&ring=eb8334&theme=omni&icon=46369c&text=eb8334&background=000000&border=46369c&preferLogin=true" />
 
 </div>
 
- 
+
 
 ----
 
