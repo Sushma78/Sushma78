@@ -115,7 +115,7 @@
 
 ## Github Status
 
-<div align="center"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sushma78?cardType=github&ring=eb8334&theme=omni&icon=b066bd&text=eb8334&background=000000&border=b066bd&preferLogin=true" />
+<div align="center"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sushma78?cardType=github&ring=eb8334&theme=omni&icon=FF79C6&text=eb8334&background=000000&border=FF79C6&preferLogin=true" />
 
 </div>
 
