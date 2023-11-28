@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="center" style="width: 100%; height:100%"/>
 </div>
 
-## <div align="center" style="text: bold">I'm Sushma</div>
+## <div align="center" style="text: bold">I'm Sushma :)</div>
 
 - 🔭 Currently I’m working on my new upcoming projects  
 
