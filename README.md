@@ -105,7 +105,7 @@
 <a href="https://sushma78.hashnode.dev/">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/@sushma_ParleMe/featured">
+<a href="https://www.youtube.com/@ginger_girll/featured">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
