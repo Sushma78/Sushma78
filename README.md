@@ -4,7 +4,7 @@
 
 ## <div align="center" style="text: bold">I'm Sushma  : )</div>
 
-- 🔭 Currently I’m working on my new upcoming projects  
+- 🔭 Currently I’m working on my new upcoming <b>project</b>  
 
 - 🌱 Newly I’m learning about cloud computing and advanced web development🎯  
 
